@@ -37,6 +37,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 "# todo-app" 
 
 
+---
+
+## 📖 Documentation
+
+- [Full Step-by-Step Setup Guide](https://docs.google.com/document/d/1bBczCFi0aASQMfHBh7wN4GBsRWk9E7aS/edit?usp=sharing)
+
+---
+
+
+
 # 📝 Next.js Todo App
 
 A simple Todo application built with Docker, TypeScript, React, and Next.js.
