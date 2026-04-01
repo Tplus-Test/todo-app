@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gray-50 flex items-center justify-center p-8">
       <div className="bg-white rounded-2xl shadow-md p-8 w-full max-w-md">
-        <h1 className="text-2xl font-bold mb-6 text-gray-800">TEST LIST APPLICATION</h1>
+        <h1 className="text-2xl font-bold mb-6 text-gray-800">TODO APP</h1>
         <TodoInput
           input={input}
           onChange={setInput}
@@ -46,7 +46,6 @@ export default function Home() {
           onDelete={deleteTodo}
         ></TodoList>
       </div>
-
     </main>
   );
 }

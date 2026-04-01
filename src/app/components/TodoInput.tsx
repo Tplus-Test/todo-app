@@ -19,7 +19,7 @@ export default function TodoInput({ input, onChange, onAdd }: Props) {
         onClick={onAdd}
         className="bg-blue-500 text-white px-4 py-2 rounded-lg text-sm hover:bg-blue-600 transition"
       >
-        Add
+        Add Task
       </button>
     </div>
   );
