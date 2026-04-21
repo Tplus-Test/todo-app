@@ -25,7 +25,6 @@ export default function TodoItem({ todo, onToggle, onDelete }: Props) {
                 className={`flex-1 text-sm ${todo.completed ? "line-through text-gray-400" : "text-gray-700"
                     }`}
             >
-
                 {todo.text}
             </span>
 
@@ -35,5 +34,4 @@ export default function TodoItem({ todo, onToggle, onDelete }: Props) {
             >Delete</button>
         </li>
     )
-
 }
